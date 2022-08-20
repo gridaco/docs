@@ -1,5 +1,5 @@
 # docs
-A Bridged documentation repository
+A Grida documentation repository
 
 
-## CURRENT DOCS ARE AVAILABLE AT BRIDGED.XYZ/DOCS AT THIS TIME. - https://github.com/bridgedxyz/bridged.xyz
+## CURRENT DOCS ARE AVAILABLE AT grida.co/docs AT THIS TIME. - https://github.com/gridaco/grida.co
